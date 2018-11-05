@@ -1,3 +1,5 @@
+# Neural-storyteller 是一个能够根据图像内容生成一个小故事的循环神经网络。这个 GitHub 库里包含了使用任意图像生成故事的代码，以及用于训练新模型的说明
+
 # neural-storyteller
 
 neural-storyteller is a recurrent neural network that generates little stories about images. This repository contains code for generating stories with your own images, as well as instructions for training new models.
